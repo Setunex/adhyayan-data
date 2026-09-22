@@ -1,0 +1,176 @@
+{
+  "schema": 1,
+  "generated": "2026-09-22T14:36:32Z",
+  "base": "content/",
+  "items": [
+    {
+      "id": "bhaj_govindam_gu",
+      "rev": "a44f99bc958f0504",
+      "bytes": 12476
+    },
+    {
+      "id": "ganesh_0",
+      "rev": "0bf3845f44c76f9e",
+      "bytes": 14628
+    },
+    {
+      "id": "geeta_1",
+      "rev": "b04b72d558137ac9",
+      "bytes": 207629
+    },
+    {
+      "id": "geeta_ch12_pilot",
+      "rev": "0b5160eb20cb5490",
+      "bytes": 2408
+    },
+    {
+      "id": "hanuman_1",
+      "rev": "9ebf0dbb4a020ba6",
+      "bytes": 10982
+    },
+    {
+      "id": "hanuman_chalisa_gu",
+      "rev": "2729821aeb10282b",
+      "bytes": 4197
+    },
+    {
+      "id": "haristotram_1",
+      "rev": "b5f6a18f242fad9c",
+      "bytes": 2924
+    },
+    {
+      "id": "hindi_1",
+      "rev": "54bac3198830f903",
+      "bytes": 1096
+    },
+    {
+      "id": "krishna_1",
+      "rev": "6dce0822fcc4b70c",
+      "bytes": 1130
+    },
+    {
+      "id": "krishna_2",
+      "rev": "2e6d331fd927e899",
+      "bytes": 15646
+    },
+    {
+      "id": "narsi_1",
+      "rev": "9b611f2e28fb41ea",
+      "bytes": 739
+    },
+    {
+      "id": "narsi_2",
+      "rev": "56abf9308b155639",
+      "bytes": 477
+    },
+    {
+      "id": "narsi_3",
+      "rev": "d749ec9a5532982a",
+      "bytes": 1100
+    },
+    {
+      "id": "narsi_4",
+      "rev": "cf1cbb66a638b486",
+      "bytes": 4
+    },
+    {
+      "id": "narsi_5",
+      "rev": "cf1cbb66a638b486",
+      "bytes": 4
+    },
+    {
+      "id": "narsi_6",
+      "rev": "cf1cbb66a638b486",
+      "bytes": 4
+    },
+    {
+      "id": "narsi_7",
+      "rev": "cf1cbb66a638b486",
+      "bytes": 4
+    },
+    {
+      "id": "narsi_8",
+      "rev": "cf1cbb66a638b486",
+      "bytes": 4
+    },
+    {
+      "id": "shakti_1",
+      "rev": "7882a92e37700258",
+      "bytes": 1400
+    },
+    {
+      "id": "shakti_2",
+      "rev": "a7bf74090bd7407d",
+      "bytes": 11165
+    },
+    {
+      "id": "shiv_1",
+      "rev": "9354c5844e82a0f1",
+      "bytes": 8865
+    },
+    {
+      "id": "shiv_2",
+      "rev": "dc902f14a8027fd1",
+      "bytes": 211924
+    },
+    {
+      "id": "shiv_3",
+      "rev": "dd9bf2473af4a7ca",
+      "bytes": 786
+    },
+    {
+      "id": "shookta_1",
+      "rev": "f89fd99a7e17d6c9",
+      "bytes": 16295
+    },
+    {
+      "id": "trilingual_master_1",
+      "rev": "cf1cbb66a638b486",
+      "bytes": 4
+    },
+    {
+      "id": "tulsi_1",
+      "rev": "0687d3e44dfc7e01",
+      "bytes": 5059
+    },
+    {
+      "id": "tulsi_2",
+      "rev": "92b365fe1f8ff8b7",
+      "bytes": 999
+    },
+    {
+      "id": "tulsi_3",
+      "rev": "8b1aa2fa389cccc8",
+      "bytes": 868
+    },
+    {
+      "id": "tulsi_4",
+      "rev": "10ef324782f8346d",
+      "bytes": 871
+    },
+    {
+      "id": "tulsi_doha_1",
+      "rev": "92b365fe1f8ff8b7",
+      "bytes": 999
+    },
+    {
+      "id": "tulsi_dohavali_complete",
+      "rev": "356d87c6f646f28a",
+      "bytes": 11974
+    }
+  ],
+  "withheld": [
+    "9",
+    "content_small_1",
+    "gayatri_1",
+    "shiv_4",
+    "vishnu_1"
+  ],
+  "catalog": {
+    "id": "stotras-min",
+    "rev": "064746dfc1606c7b",
+    "bytes": 5063,
+    "path": "stotras-min.json"
+  },
+  "version": "518495af5c1c6092"
+}
