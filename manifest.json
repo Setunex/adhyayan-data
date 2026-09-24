@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-09-24T09:39:32Z",
+  "generated": "2026-09-24T13:19:00Z",
   "base": "content/",
   "items": [
     {
@@ -52,6 +52,11 @@
       "id": "krishna_2",
       "rev": "2e6d331fd927e899",
       "bytes": 15646
+    },
+    {
+      "id": "mukunda_1",
+      "rev": "68a2cff9f115661b",
+      "bytes": 1544
     },
     {
       "id": "narsi_1",
@@ -168,9 +173,9 @@
   ],
   "catalog": {
     "id": "stotras-min",
-    "rev": "064746dfc1606c7b",
-    "bytes": 5063,
+    "rev": "b4e280aa64407b6e",
+    "bytes": 5508,
     "path": "stotras-min.json"
   },
-  "version": "518495af5c1c6092"
+  "version": "813dc49134deac35"
 }
